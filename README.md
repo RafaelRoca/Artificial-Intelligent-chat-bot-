@@ -1,5 +1,4 @@
-## Vasudev 
-Artificial Linguistic internet computer entity or you can call it as Chatterbot.
+## Vasudev - Artificial Linguistic internet computer entity (Chatterbot)
 
 
 Vasudev is created with the help of [AIML](http://www.alicebot.org/aiml.html) programming language introduced by 
