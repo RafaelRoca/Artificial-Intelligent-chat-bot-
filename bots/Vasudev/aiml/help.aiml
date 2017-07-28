@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<!--
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                                                  @@
+@@    Author    :   Suhas More                                      @@
+@@    Mob       :   +91 968 964 9696                                @@
+@@    Mail      :   moresuhas010@gmail.com                          @@
+@@    Date      :   20/1/2016                                       @@
+@@    Project   :   Vasudev - ChatBot + Personal Assistant          @@
+@@                                                                  @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+-->
+
+
+
+
+<category><pattern>HELP VOICE</pattern>
+<template>You can buy a male voice from Svox. Installing this app will give CallMom (as well as all other apps) a male voice. See <a href="https://play.google.com/store/apps/details?id=com.svox.classic.langpack.eng_usa_male&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zdm94LmNsYXNzaWMubGFuZ3BhY2suZW5nX3VzYV9tYWxlIl0.">Svox Classic Text-to-Speech Engine</a>.</template>
+</category>
+</aiml>

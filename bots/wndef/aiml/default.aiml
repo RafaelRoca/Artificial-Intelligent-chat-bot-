@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<!--
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                                                  @@
+@@    Author    :   Suhas More                                      @@
+@@    Mob       :   +91 968 964 9696                                @@
+@@    Mail      :   moresuhas010@gmail.com                          @@
+@@    Date      :   20/1/2016                                       @@
+@@    Project   :   Vasudev - ChatBot + Personal Assistant          @@
+@@                                                                  @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+-->
+
+
+
+
+<category><pattern>DEFINE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WNDEF *</pattern>
+<template>I don't know the definition of <star/>.</template>
+</category>
+
+</aiml>

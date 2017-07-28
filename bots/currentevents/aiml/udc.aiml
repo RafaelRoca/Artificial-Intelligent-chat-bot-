@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<!--
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                                                  @@
+@@    Author    :   Suhas More                                      @@
+@@    Mob       :   +91 968 964 9696                                @@
+@@    Mail      :   moresuhas010@gmail.com                          @@
+@@    Date      :   20/1/2016                                       @@
+@@    Project   :   Vasudev - ChatBot + Personal Assistant          @@
+@@                                                                  @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+-->
+
+
+
+
+<category>
+<pattern>*</pattern>
+<template>unknown
+</template>
+</category>
+
+<category>
+<pattern>ISANAME *</pattern>
+<template>false</template>
+</category>
+
+<category>
+<pattern>GENDERNAME *</pattern>
+<template>unknown</template>
+</category>
+
+</aiml>
